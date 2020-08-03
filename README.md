@@ -1,1 +1,1 @@
-# O005.Luogu_Exercise
+# Luogu_Exercise
